@@ -1,0 +1,11 @@
+# Archivos de editor
+.vscode/
+*.code-workspace
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Dependencias
+node_modules/

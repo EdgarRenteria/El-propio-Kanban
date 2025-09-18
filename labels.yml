@@ -1,0 +1,12 @@
+backlog:
+  color: "FF5733"
+  description: "Ideas y tareas por planificar"
+todo:
+  color: "F1C40F"
+  description: "Tareas listas para iniciar"
+doing:
+  color: "3498DB"
+  description: "Tareas en progreso"
+done:
+  color: "2ECC71"
+  description: "Tareas completadas"

@@ -1,0 +1,5 @@
+name,color,description
+backlog,FF5733,Ideas y tareas por planificar
+todo,F1C40F,Tareas listas para iniciar
+doing,3498DB,Tareas en progreso
+done,2ECC71,Tareas completadas
